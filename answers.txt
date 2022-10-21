@@ -1,0 +1,2 @@
+Proszę odpowiedzieć na pytanie za pomocą jakiego mechanizmu aplikacja wydrukowała w konsoli komunikat ‘new connection’?
+Za pomocą nasłuchiwania eventu typu connection został wysłany komunikat do konsoli console.log()
